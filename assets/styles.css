@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#content {
+  font-size: 1.2em;
+  max-width: 800px;
+  margin: auto auto;
+  text-align: justify;
+}
+
+code {
+  color: cyan;
+  font-size: 1.2em;
+}
+
+pre {
+  color: cyan;
+  font-size: 2em;
+}
+
+h1, h2, h3, h4 {
+  text-align: center;
+}
